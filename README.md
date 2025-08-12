@@ -7,6 +7,7 @@ Python is a popular programming language used everywhere—from web development 
 
 ## Step 1: Setting Up Python
 > Skip if have installed
+
 > Skip if have iPad
 
 1. Download Python:  
