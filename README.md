@@ -6,7 +6,7 @@ Python is a popular programming language used everywhere—from web development 
 ---
 
 ## Step 1: Setting Up Python
-> Skip if have installed
+> 🦘 Skip if have installed
 
 1. Download Python:  
    Go to https://python.org/downloads and download the latest version for your system (Windows, Mac, Linux).  
